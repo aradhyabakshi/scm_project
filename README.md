@@ -5,7 +5,7 @@ Team Members:                 Arshvir Singh Deol
                               Arpit Goel
                               Arsh Beri
                               Arvin 
-                              Aradhya
+                              Aradhya bakshi
                              
 Our project aims to address this challenge by developing a user-friendly and customizable Social Media Dashboard using HTML and CSS. 
 This dashboard will empower users to effortlessly visualize, analyze, and manage their social media data, ultimately enhancing their online presence and decision-making capabilities.
